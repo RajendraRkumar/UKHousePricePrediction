@@ -1,4 +1,4 @@
-# Project-kumar13
+# Project-kumar
 
 
 [Final Report](https://github.iu.edu/B565-Fall2023/Project-kumar13-wcutchin-dutiwar/blob/master/Final_Report_DataMining.pdf)
